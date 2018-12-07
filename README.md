@@ -1,8 +1,8 @@
 Before starting to learn grpc, let's first see how happy go get is.
 
-Mac install cow:  curl -L git.io/cow | bash
+Mac install cow:  ```curl -L git.io/cow | bash```
 
-Mac start-up ./cow &
+Mac start-up ```./cow &```
 
 Errors will be reported at this time! Take it easy.
 
