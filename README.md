@@ -1,4 +1,4 @@
-***Before starting to learn grpc, let's first see how happy go get is.***
+***Before learning ```grpc```, let's first see how happy ```go get``` is.***
 
 Mac install cow:  ```curl -L git.io/cow | bash```
 
