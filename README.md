@@ -6,7 +6,7 @@ Mac start-up ```./cow &```
 
 Errors will be reported at this time! Take it easy.
 
-**Solution**
+**Solutions**
 
 1.https://github.com/OMGZui/go/blob/master/cow.zip
 
